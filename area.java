@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Racine{
+public class area{
     public static void main (String[]args){
         /*Calculate the area of a rectangle  */
              double width = 0;
